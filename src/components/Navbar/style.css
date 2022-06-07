@@ -1,0 +1,21 @@
+.profile-nav {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.profile-nav img {
+    height: 50px;
+    border-radius: 50%;
+}
+
+.profile-nav .profile-details {
+    margin-left: 10px;
+    width: 100%;
+    min-width: 100px;
+    margin-right: 10px;
+}
+
+.profile-nav .profile-details p {
+    margin-bottom: 0;
+}

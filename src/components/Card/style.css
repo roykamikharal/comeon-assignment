@@ -1,0 +1,11 @@
+.my-card.card {
+    flex-direction: row;
+    margin: 10px auto;
+}
+
+.my-card .card-img-top {
+    max-width: 200px;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-bottom-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: 0;
+}
